@@ -1,8 +1,8 @@
-# Nalbert
+# Nalbert Henri
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Front End`**
 
- Me chamo Nalbert Henri, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente, estou focado em desenvolvimento Front-End, com conhecimentos em HTML, CSS e JavaScript
+ Me chamo Nalbert Henri, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente, estou focado em desenvolvimento Front-End, com conhecimentos em HTML, CSS e JavaScript e buscando conhecimento em Typescript e React
 
 
 ---
