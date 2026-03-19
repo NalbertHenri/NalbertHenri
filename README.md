@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=👨‍💻+Nalbert+Henri;Full+Stack+Developer;Java+%7C+React+%7C+JavaScript"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Nalbert+Henri;Full+Stack+Developer;Java+%7C+React+%7C+JavaScript"/>
 </p>
 
 ## 💻 Full Stack Developer
