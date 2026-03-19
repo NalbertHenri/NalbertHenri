@@ -1,67 +1,65 @@
-# 👨‍💻 Nalbert 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=500&lines=Nalbert+Henri;Full+Stack+Developer"/>
+</p>
 
-**`Desenvolvedor Front End`**
+## 💻 Full Stack Developer
 
-
-Me chamo Nalbert e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) e me especializando em Front End. Tenho conhecimentos em HTML, CSS e JavaScript, e no momento estou aprofundando meus estudos em React para evoluir ainda mais como desenvolvedor.
-A cada novo aprendizado, busco criar projetos práticos para aplicar os conhecimentos adquiridos, pois acredito que a prática é essencial para consolidar a teoria e desenvolver soluções reais. Meu objetivo é construir minha carreira como desenvolvedor, sempre em constante evolução e aprendizado na área de tecnologia.
+📍 São Paulo - Mauá  
+🎓 Análise e Desenvolvimento de Sistemas  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👋 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+Sou um desenvolvedor Full Stack em formação, atualmente cursando Análise e Desenvolvimento de Sistemas, com grande interesse em criar soluções completas, desde interfaces modernas até estruturas robustas no back-end.
 
-<br/>
-<br/>
+Tenho experiência com HTML, CSS, JavaScript e React no front-end, focando em interfaces intuitivas e responsivas. No back-end, utilizo Java para construir aplicações organizadas, eficientes e escaláveis.
 
-### 📊 Estatísticas
+Meu objetivo é me tornar um profissional completo na área de tecnologia, contribuindo com soluções reais e impactando positivamente pessoas e negócios.
 
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Front-End
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NalbertHenri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalbertHenri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
+
+---
+
+### ⚙️ Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+---
+
+### 🧰 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 Objetivo
+
+Busco uma oportunidade como desenvolvedor Full Stack (estágio ou júnior), onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com projetos reais.
+
+---
+
+## 📬 Contato
+
+Email: henrinalbert8@email.com  
+LinkedIn: www.linkedin.com/in/nalbert-henri 
+GitHub: https://github.com/NalbertHenri/NalbertHenri  
+
+---
+
+## ⭐ Status
+
+🚧 Em constante evolução  
+
+---
+
+Feito com 💜 por Nalbert Henri
