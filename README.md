@@ -10,7 +10,7 @@
 
 📍 São Paulo - Mauá  
 🎓 Análise e Desenvolvimento de Sistemas  
-💙 Proano 
+💻 Senac/Proa - Desenvolvimento Web Java
 
 ---
 
